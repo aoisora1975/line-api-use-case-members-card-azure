@@ -1,6 +1,6 @@
 // 環境設定を読み込む
-const BASE_URL = "https://xxxxxxxxx.azurestaticapps.net";
-const liffId = "xxxxxxxx-xxxxxxxx"
+const BASE_URL = "https://agreeable-water-0abf33300.3.azurestaticapps.net";
+const liffId = "1660722854-A89eej79"
 
 // 言語設定の定数宣言
 const defaultLang = "ja";
@@ -41,7 +41,8 @@ function initializeLiffOrDie(myLiffId) {
 function initializeLiff(myLiffId) {
   liff
     .init({
-      liffId: myLiffId,
+      //liffId: myLiffId,
+      liffId: "1660722854-A89eej79",
     })
     .then(() => {
       // start to use LIFF's api
