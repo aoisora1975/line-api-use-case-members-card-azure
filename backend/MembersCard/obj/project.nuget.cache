@@ -1,0 +1,72 @@
+{
+  "version": 2,
+  "dgSpecHash": "9zXSYNoBRRkN3E6UDoaZh0shqH5Rj85dmkbaQDnfLpc/ISICxYQXjVs9BQ2QzrpZ+WwIbR3FRRUkQUmqUARAFw==",
+  "success": false,
+  "projectFilePath": "d:\\aoiso\\LineApp\\line-api-use-case-members-card-azure\\backend\\MembersCard\\MembersCard.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "パッケージ Microsoft.Azure.Cosmos が見つかりません。ソース C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages には、この ID のパッケージが存在しません。",
+      "libraryId": "Microsoft.Azure.Cosmos",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "パッケージ Microsoft.Azure.Functions.Extensions が見つかりません。ソース C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages には、この ID のパッケージが存在しません。",
+      "libraryId": "Microsoft.Azure.Functions.Extensions",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "パッケージ Microsoft.Extensions.Http が見つかりません。ソース C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages には、この ID のパッケージが存在しません。",
+      "libraryId": "Microsoft.Extensions.Http",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "パッケージ Microsoft.NET.Sdk.Functions が見つかりません。ソース C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages には、この ID のパッケージが存在しません。",
+      "libraryId": "Microsoft.NET.Sdk.Functions",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "パッケージ Microsoft.NETCore.App.Ref が見つかりません。ソース C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages には、この ID のパッケージが存在しません。",
+      "libraryId": "Microsoft.NETCore.App.Ref",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "パッケージ Microsoft.WindowsDesktop.App.Ref が見つかりません。ソース C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages には、この ID のパッケージが存在しません。",
+      "libraryId": "Microsoft.WindowsDesktop.App.Ref",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "パッケージ Microsoft.AspNetCore.App.Ref が見つかりません。ソース C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages には、この ID のパッケージが存在しません。",
+      "libraryId": "Microsoft.AspNetCore.App.Ref",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
